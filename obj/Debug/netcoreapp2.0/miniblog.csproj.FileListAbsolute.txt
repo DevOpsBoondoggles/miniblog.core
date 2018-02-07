@@ -1,0 +1,10 @@
+C:\miniblog\bin\Debug\netcoreapp2.0\miniblog.deps.json
+C:\miniblog\bin\Debug\netcoreapp2.0\miniblog.runtimeconfig.json
+C:\miniblog\bin\Debug\netcoreapp2.0\miniblog.runtimeconfig.dev.json
+C:\miniblog\bin\Debug\netcoreapp2.0\miniblog.dll
+C:\miniblog\bin\Debug\netcoreapp2.0\miniblog.pdb
+C:\miniblog\obj\Debug\netcoreapp2.0\miniblog.csproj.CoreCompileInputs.cache
+C:\miniblog\obj\Debug\netcoreapp2.0\miniblog.AssemblyInfoInputs.cache
+C:\miniblog\obj\Debug\netcoreapp2.0\miniblog.AssemblyInfo.cs
+C:\miniblog\obj\Debug\netcoreapp2.0\miniblog.dll
+C:\miniblog\obj\Debug\netcoreapp2.0\miniblog.pdb
